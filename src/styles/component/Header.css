@@ -1,0 +1,13 @@
+.css-hip9hq-MuiPaper-root-MuiAppBar-root {
+  box-shadow: 0 1px 5px 0 rgb(41 85 115 / 21%);
+  background-color: #fff !important;
+  color: #162d3d !important;
+  z-index: 2000;
+}
+.css-1kcggdq-MuiInputBase-root .MuiInputBase-input {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+button {
+    color: #162d3d !important;
+}

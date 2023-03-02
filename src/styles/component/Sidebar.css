@@ -1,0 +1,51 @@
+.side-navigation-panel {
+  color: #cfd0d2;
+  background: #131720;
+  font-size: 14px;
+}
+
+.side-navigation-panel-select-option-selected {
+  background-color: #42454c !important;
+}
+.side-navigation-panel-select-wrap :hover {
+  background-color: #2e3149 !important;
+}
+.side-navigation-panel-select-option-text {
+  color: white;
+}
+.side-navigation-panel-select-inner-wrap {
+  background-color: #494a53 !important;
+}
+.side-navigation-panel-select-inner-option-wrap {
+  color: white;
+}
+.side-navigation-panel
+  .side-navigation-panel-select
+  .side-navigation-panel-select-wrap
+  .side-navigation-panel-select-option {
+  border-left: none;
+  padding: 0.75rem 1.5rem;
+  background-color: #1f222b;
+}
+.side-navigation-panel
+  .side-navigation-panel-select
+  .side-navigation-panel-select-inner
+  .side-navigation-panel-select-inner-wrap
+  .side-navigation-panel-select-inner-option {
+  background-color: #1f222b;
+  padding: 0.5rem 2.5rem;
+  border-left: none;
+}
+.side-navigation-panel .side-navigation-panel-select .side-navigation-panel-select-inner .side-navigation-panel-select-inner-wrap .side-navigation-panel-select-inner-option-selected {
+  --tw-border-opacity: 1;
+  --tw-bg-opacity: 1;
+  --tw-text-opacity: 1;
+  background-color: #42454c;
+}
+.side-navigation-panel
+  .side-navigation-panel-select
+  .side-navigation-panel-select-inner
+  .side-navigation-panel-select-inner-wrap
+  .side-navigation-panel-select-inner-option:hover {
+  background-color: #494a53;
+}
